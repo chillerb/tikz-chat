@@ -1,4 +1,4 @@
-# tikz-chat-template
+# tikz-chat
 
 > A LaTeX template to draw chats with TikZ
 
